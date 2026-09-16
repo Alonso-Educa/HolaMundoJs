@@ -5,3 +5,7 @@ console.log("x + y = " + (x + y));
 console.log("x - y = " + (x - y));
 console.log("x * y = " + (x * y));
 console.log("x / y = " + (x / y));
+
+console.log("\nEdiciones en clase:");
+console.log("x % y = " + (x % y));
+console.log("x ** y = " + (x ** y));
