@@ -9,3 +9,7 @@ console.log("x / y = " + (x / y));
 console.log("\nEdiciones en clase:");
 console.log("x % y = " + (x % y));
 console.log("x ** y = " + (x ** y));
+
+console.log("\nEdiciones en clase 2 (online):");
+x = 2; y = 3;
+console.log("x = " + x + ", y= " + y);
